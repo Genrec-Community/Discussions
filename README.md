@@ -1,2 +1,2 @@
-# upgraded-meme
+# Discussions
 Discuss Anything
